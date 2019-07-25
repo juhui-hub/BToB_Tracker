@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+#zzzzzz
 video_path='btob.mp4'
 cap=cv2.VideoCapture(video_path) #동영상 로드
 
